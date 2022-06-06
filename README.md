@@ -1,6 +1,6 @@
 # Bayes Optimal Neural Network Pruning using Relational Graph Properties
 
-[Colab Demo](https://colab.research.google.com/drive/1fvqSHSYt41NxZ1jcPamPrhv-l0jFQ0ts?usp=sharing) | [Presentation Colab](https://github.com/yichousun/Spring2022_CS249_GNN/blob/main/Course_Project/Group15_NN_Pruning_via_Relational_Graph/Vector_Bayesian_Opimization.ipynb) | [Presentation Slides](https://docs.google.com/presentation/d/1gqfWB3UVYjL8rVKUo8p64ba-yEdD2MGkyxg_0BZdEXo/edit)
+[Colab Demo](https://colab.research.google.com/drive/1fvqSHSYt41NxZ1jcPamPrhv-l0jFQ0ts?usp=sharing) | [Presentation Colab](https://github.com/yichousun/Spring2022_CS249_GNN/blob/main/Course_Project/Group15_NN_Pruning_via_Relational_Graph/Vector_Bayesian_Opimization.ipynb) | [Presentation Slides](https://docs.google.com/presentation/d/1gqfWB3UVYjL8rVKUo8p64ba-yEdD2MGkyxg_0BZdEXo/edit?usp=sharing)
 
 | Name       | UID |
 |---------------|----------|
